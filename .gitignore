@@ -1,0 +1,6 @@
+README.md
+*.doc
+venv\
+.vscode/
+__pycache__/
+venv/
